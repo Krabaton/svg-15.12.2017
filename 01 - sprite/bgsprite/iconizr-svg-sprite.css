@@ -1,0 +1,31 @@
+/* Icons from directory "" */
+.icon-github_round,
+.icon-github_round\:regular {
+  background-image: url('icons/icons.svg');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+.icon-github_round-dims {
+  width: 50px;
+  height: 50px;
+}
+.icon-in_round,
+.icon-in_round\:regular {
+  background-image: url('icons/icons.svg');
+  background-position: 0 -50px;
+  background-repeat: no-repeat;
+}
+.icon-in_round-dims {
+  width: 50px;
+  height: 50px;
+}
+.icon-vk_round,
+.icon-vk_round\:regular {
+  background-image: url('icons/icons.svg');
+  background-position: 0 -100px;
+  background-repeat: no-repeat;
+}
+.icon-vk_round-dims {
+  width: 50px;
+  height: 50px;
+}
